@@ -16,7 +16,7 @@ Currently, the following features are available:
 Prerequesteries:
  - A Kotlin compiler. For normal users it is rcommended to install the [IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows), but you may install kotlin compiler manually as well.
  - Git (Optional, but very helpful if you want to contribute code.)
- - A Java Developement Kit (JDK), if you do not have one installed already I heavily recommend installing [OpenJDK](https://adoptium.net/en-GB/temurin/releases/?version=21)
+ - A Java Developement Kit (JDK), if you do not have one installed already I heavily recommend installing [OpenJDK](https://adoptium.net/en-GB/temurin/releases/?version=21&package=jdk)
 
 ---
 Use the green `Code` button around the middle top-right, choose your appropriate download method.
