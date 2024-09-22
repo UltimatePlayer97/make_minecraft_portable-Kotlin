@@ -42,7 +42,7 @@ fun main() {
             launcherDir = "minecraft-launcher"
         }
         else -> {
-            println("MMcP does not yet support your platoform, stay tuned for more info.")
+            println("MMcP does not yet support your platform, stay tuned for more info.")
             return
         }
     }
