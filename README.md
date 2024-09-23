@@ -29,9 +29,9 @@ cd make_minecraft_portable_kotlin
 ```
 Once you have entered the directory, you may either open it with IntelliJ to build the project **or** compile it manually, instructions provided below.
 
-Compiling the project manually can be done so by going into the project's folder in terminal, then doing `kotlinc main.kt -include-runtime -d main.jar`
+Compiling the project manually can be done so by going into the project's folder in terminal, then doing `kotlinc main.kt -include-runtime -d mmcp.jar`
 
-Then you can run the file by doing `java -jar main.jar`
+Then you can run the file by doing `java -jar mmcp.jar`
 
 ## Kotlin Compiler
 If you wish to download the Kotlin compiler manually, this guide will give instructions on how to do so:
